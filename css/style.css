@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css?family=Lobster&display=swap');
+html{
+    height: 100%;
+    font-size: 15px;
+}
+
+body{
+    height: 100%;
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    overflow: hidden;
+    font-size: 15px;
+}
+
+header{
+    
+}
+
+section{
+    position: relative;
+    padding-top: 150px;
+    padding-bottom: 150;
+}
+
